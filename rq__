@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rq__
+# key: rq__
+# --
+let _ = require('lodash');
+$0

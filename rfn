@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rfn
+# key: rfn
+# --
+function $1(req, res) {
+ $0
+}

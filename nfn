@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nfn
+# key: nfn
+# --
+function $1($2) {
+ $0
+}

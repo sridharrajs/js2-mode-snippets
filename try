@@ -2,8 +2,8 @@
 # name: try
 # key: try
 # --
-try{
+try {
  $0
-}catch(err){
+} catch(err) {
     console.log('err ', err.stack);       
 }

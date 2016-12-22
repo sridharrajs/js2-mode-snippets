@@ -2,7 +2,6 @@
 # name: yclass
 # key: yclass
 # --
-
 /**
  * Created by sridharrajs.
  */
@@ -11,7 +10,7 @@
 
 class $1 {
 
-$0
+  $0
 
 }
 

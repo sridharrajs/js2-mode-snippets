@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: _e
-# key: _e
+# name: _m
+# key: _m
 # --
 _.map($1, ($2) => {
   $0

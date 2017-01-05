@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: _r
+# key: _r
+# --
+_.reduce($1, ($3) => {
+  $0
+}, $2);

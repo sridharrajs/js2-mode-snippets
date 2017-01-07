@@ -3,5 +3,5 @@
 # key: catch
 # --
 catch((err) => {
-	$0
+   $0
 });

@@ -1,5 +1,11 @@
 ## Ya-Snippets for js2-mode
 
+### Requires
+`rq_` is the short form for `require`.
+
+* `let <tab> = require(<tab>)`=> `rq`   
+* `let _ = require('lodash')` => `rq__`  
+
 ### Functions
 
 `fn` is the short form for `function`. So,
@@ -32,6 +38,11 @@
 `e` stands for `express`
 
 * `e_route` => express router boilerplate
+
+### Trivials
+
+* `console.log(<TAB>);` => `c`
+* `"use strict";` => `us`
 
 ### LICENSE
 

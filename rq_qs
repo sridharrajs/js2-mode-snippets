@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rq_qs
+# key: rq_qs
+# --
+let qs = require('qs');
+$0

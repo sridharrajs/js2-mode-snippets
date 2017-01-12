@@ -4,7 +4,8 @@
 `rq_` is the short form for `require`.
 
 * `let <tab> = require(<tab>)`=> `rq`   
-* `let _ = require('lodash')` => `rq__`  
+* `let _ = require('lodash')` => `rq__`
+* `let qs = require('qs')` => `rq_qs`
 
 ### Functions
 

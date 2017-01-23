@@ -5,7 +5,8 @@
 
 * `let <tab> = require(<tab>)`=> `rq`   
 * `let _ = require('lodash')` => `rq__`
-* `let qs = require('qs')` => `rq_qs`
+* `let qs = require('qs')` => `rq_qs`  
+* `let fs = require('fs')` => `rq_fs`  
 
 ### Functions
 

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rq_fs
+# key: rq_fs
+# --
+let fs = require('fs');
+$0

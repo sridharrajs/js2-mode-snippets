@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: nr
-# key: nr
+# name: yroute
+# key: yroute
 # --
 /**
  * Created by sridharrajs.
@@ -13,17 +13,18 @@ let qs = require('qs');
 
 let app = express.Router();
 
-function getAll(req, res){
+function getAll(req, res) {
 
 }
 
-function add(req, res){
+function add(req, res) {
+   let body = qs.parse(req.body);
 
 }
 
-app.get('/',getAll)
-    .post('/',add);
+app.get('/', getAll)
+    .post('/', add);
 
-module.exports = (indexRoutes)=>{
+module.exports = (indexRoutes) => {
     indexRoutes('/$0', app);
 };

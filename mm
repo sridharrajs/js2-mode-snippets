@@ -14,7 +14,7 @@ let Schema = mongoose.Schema;
 
 let schema = new Schema({
   $0
-  active: {
+  is_active: {
     type: Boolean,
     default: true
   },

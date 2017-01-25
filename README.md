@@ -31,7 +31,7 @@
 
 * `_.each()`   => `_e`  
 * `_.map()`    => `_m`  
-* `_.reduce()` => `_r`
+* `_.reduce()` => `_r`  
 
 ### Express
 
@@ -44,7 +44,7 @@
 ### Trivials
 
 * `console.log(<TAB>);` => `c`
-* `"use strict";` => `us`
+* `"use strict";` => `us;`
 
 ### LICENSE
 

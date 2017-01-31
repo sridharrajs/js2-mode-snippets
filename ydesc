@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: ydesc
+# key: ydesc
+# --
+/**
+ * Created by sridharrajs.
+ */
+
+'use strict';
+
+let mocha = require('mocha');
+let expect = require('chai').expect;
+
+let $1 = require('$2');
+
+describe('$3', () => {
+  
+    $0
+
+});
+

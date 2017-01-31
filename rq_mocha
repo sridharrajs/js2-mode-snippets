@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rq_mocha
+# key: rq_mocha
+# --
+let mocha = require('mocha');
+$0

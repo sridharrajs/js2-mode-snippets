@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: rq_expect
+# key: rq_expect
+# --
+let expect = require('chai').expect;
+$0

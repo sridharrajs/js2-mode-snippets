@@ -46,6 +46,11 @@
 * `console.log(<TAB>);` => `c`
 * `"use strict";` => `us;`
 
+### Testing
+
+* `rq_desc` => for the describe template
+* `let expect = require('expect')` => `rq_expect`
+
 ### LICENSE
 
 MIT

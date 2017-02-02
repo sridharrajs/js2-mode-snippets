@@ -26,5 +26,5 @@ app.get('/', getAll)
     .post('/', add);
 
 module.exports = (indexRoutes) => {
-    indexRoutes('/$0', app);
+    indexRoutes.use('/$0', app);
 };

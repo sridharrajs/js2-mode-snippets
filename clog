@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: c
-# key: c	
+# name: clog
+# key: clog	
 # --
 console.log($0);
 

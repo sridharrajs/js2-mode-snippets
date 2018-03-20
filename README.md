@@ -44,7 +44,7 @@
 
 ### Trivials
 
-* `console.log(<TAB>);` => `c`
+* `console.log(<TAB>);` => `clog`
 * `"use strict";` => `us;`
 
 ### Testing
